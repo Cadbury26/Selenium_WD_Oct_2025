@@ -12,7 +12,7 @@ public class EmployeeDetails {
 		float rating = 4.5f;
 		long mobileNumber= 9865432555l;
 		long pincode = 641008;
-		char luckyNumber = '7';
+		int luckyNumber = 7;
 		
 		System.out.println("name =" +name);
 		System.out.println("age =" +age);
@@ -26,3 +26,4 @@ public class EmployeeDetails {
 	}
 
 }
+
